@@ -7,7 +7,7 @@ function Home() {
       <h2>Welcome to LMS</h2>
       <p>
         Manage your library efficiently with real-time book tracking, user
-        management, and smart features.
+        management, and smart features for feature enhancement.
       </p>
       <button>Get Started</button>
     </section>
