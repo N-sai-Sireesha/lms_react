@@ -4,7 +4,7 @@ import React from "react";
 function Home() {
   return (
     <section>
-      <h2>Welcome to LMS</h2>
+      <h2>Welcome to Library Management System</h2>
       <p>
         Manage your library efficiently with real-time book tracking, user
         management, and smart features for feature enhancement.
